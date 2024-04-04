@@ -1,0 +1,32 @@
+html,
+body {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    height: 100vh;
+    background-color: #f8e3cc;
+}
+.full-height {
+    height: 100vh;
+}
+.title {
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid;
+    color: black;
+}
+.pizza-info {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+footer {
+    background: #eeee;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
